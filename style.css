@@ -1,0 +1,17 @@
+body {
+  background-color: gray;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1,
+h2 {
+  color: red;
+}
+
+ul {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  list-style: none;
+}
